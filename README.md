@@ -35,4 +35,4 @@
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> Em progresso / In progress...
 </div>
     
-<h3> 🎓 Estudante sempre, construindo um futuro e buscando sempre progredir e aperfeiçoando a cada progresso conquistado! 
+<h3> 🎓 Estudante sempre, construindo um futuro e buscando sempre progredir e aperfeiçoando a cada progresso conquistado! / Always a student, building a future and always seeking to progress and improve with each progress achieved! 
